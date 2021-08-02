@@ -10,6 +10,9 @@
     <modules>
         <module>food-dev-common</module>
         <module>food-dev-pojo</module>
+        <module>food-dev-mapper</module>
+        <module>food-dev-service</module>
+        <module>food-dev-api</module>
     </modules>
     <packaging>pom</packaging>
 
